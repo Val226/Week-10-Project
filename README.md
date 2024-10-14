@@ -6,10 +6,10 @@ Using HTML, Bootstrap, and JavaScript create a single page website that contains
 
 The theme I'm going to use with this project is cats.
 My table is going to have columns for:
-  - Owner's Name
+
   - Cat's Name
   - Cat's Age
-  - Cat's Favorite Toy
+  - Fun fact about the cat
 
 The form is going to be so you can add your own cat's information to the table.
 
